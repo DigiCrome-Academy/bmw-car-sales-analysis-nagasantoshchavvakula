@@ -39,3 +39,10 @@ Students must submit the following components:
 - PowerBI report file
 
 Note: Successful pipeline execution must demonstrate clean, standardized data loaded into the correct MySQL table.
+
+---
+
+## 📊 Power BI Dashboard
+
+You can explore the interactive Power BI report here:  
+👉 [View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTEyOGQwMTctMjQ3NC00ZjczLWJiMmUtYzZhNzQ0YmUyMTg0IiwidCI6IjdhZmI5ZTIyLTkzMDgtNDE4Ni04ZTI5LWVhMjMxZmYzYmFmNyIsImMiOjN9)
